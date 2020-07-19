@@ -13,3 +13,7 @@
 [UIColor.io](https://www.uicolor.io/) is a website that helps you convert HEX & RGB colors to UIColor for Objective-C, Swift and Xamarin featuring a colorpicker and copy to clipboard functionality to make things easier.
 
 [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) provides a set of over 2,400 consistent, highly configurable symbols you can use in your app. Apple designed SF Symbols to integrate seamlessly with the San Francisco system font, so the symbols automatically ensure optical vertical alignment with text in all weights and sizes.
+
+[Xcode Intellisense](https://stackoverflow.com/questions/6662395/xcode-intellisense-meaning-of-letters-in-colored-boxes-like-f-t-c-m-p-c-k-etc) 
+Xcode intellisense meaning of letters in colored boxes like f,T,C,M,P,C,K,# etc
+
